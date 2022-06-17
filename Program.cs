@@ -6,7 +6,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-
+// should I or should I not
 namespace Coffee_Critique
 {
     public class Program
